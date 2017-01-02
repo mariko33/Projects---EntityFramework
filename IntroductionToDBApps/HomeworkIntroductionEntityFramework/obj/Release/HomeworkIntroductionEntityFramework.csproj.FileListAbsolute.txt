@@ -1,0 +1,10 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\HomeworkIntroductionEntityFramework\bin\Release\HomeworkIntroductionEntityFramework.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\HomeworkIntroductionEntityFramework\bin\Release\HomeworkIntroductionEntityFramework.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\HomeworkIntroductionEntityFramework\bin\Release\HomeworkIntroductionEntityFramework.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\HomeworkIntroductionEntityFramework\bin\Release\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\HomeworkIntroductionEntityFramework\bin\Release\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\HomeworkIntroductionEntityFramework\bin\Release\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\HomeworkIntroductionEntityFramework\bin\Release\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\HomeworkIntroductionEntityFramework\obj\Release\HomeworkIntroductionEntityFramework.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\HomeworkIntroductionEntityFramework\obj\Release\HomeworkIntroductionEntityFramework.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\HomeworkIntroductionEntityFramework\obj\Release\HomeworkIntroductionEntityFramework.csprojResolveAssemblyReference.cache

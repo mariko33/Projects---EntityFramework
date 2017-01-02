@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <name />
+    <gender />
+    <BirthDate />
+    <PhoneNuber />
+    <Email />
+    <Exams>
+      <ExamsDate />
+      <DateTaken />
+      <Grade />
+    </Exams>
+  </student>
+</students>

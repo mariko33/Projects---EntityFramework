@@ -1,0 +1,1 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Client\bin\Debug\Photography.Client.exe.config

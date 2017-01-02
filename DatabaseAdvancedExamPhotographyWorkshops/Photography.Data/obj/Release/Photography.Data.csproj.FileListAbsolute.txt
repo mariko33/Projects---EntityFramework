@@ -1,0 +1,14 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\bin\Release\Photography.Data.dll.config
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\bin\Release\Photography.Data.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\bin\Release\Photography.Data.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\bin\Release\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\bin\Release\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\bin\Release\Photography.Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\bin\Release\Photography.Models.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\bin\Release\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\bin\Release\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\obj\Release\Photography.Data.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\obj\Release\Photography.Data.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\obj\Release\Photography.Data.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\obj\Release\Photography.Data.Migrations.InitialCreate.resources
+C:\Users\Toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Data\obj\Release\Photography.Data.csproj.GenerateResource.Cache

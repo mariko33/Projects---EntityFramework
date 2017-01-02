@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student>
+    <name />
+    <gender />
+    <birthDate />
+    <exams>
+      <examName />
+      <dateTaken />
+      <grade />
+    </exams>
+  </student>
+</students>

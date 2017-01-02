@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\StudentSystemClient.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\StudentSystemClient.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\StudentSystemClient.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\EntityFramework.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\StudentSystemData.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\StudentSystemModels.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\StudentSystemData.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\StudentSystemModels.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\EntityFramework.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\obj\Release\StudentSystemClient.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\obj\Release\StudentSystemClient.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\obj\Release\StudentSystemClient.pdb

@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\Solution1\CarDealer.Models\bin\Debug\CarDealer.Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Solution1\CarDealer.Models\bin\Debug\CarDealer.Models.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Solution1\CarDealer.Models\obj\Debug\CarDealer.Models.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Solution1\CarDealer.Models\obj\Debug\CarDealer.Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Solution1\CarDealer.Models\obj\Debug\CarDealer.Models.pdb

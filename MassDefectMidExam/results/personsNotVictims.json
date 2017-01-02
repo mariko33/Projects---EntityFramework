@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Asylus Ovelox",
+    "homePlanet": {
+      "name": "Kepler-1"
+    }
+  },
+  {
+    "Name": "Seren Joseph",
+    "homePlanet": {
+      "name": "Alpha-N20"
+    }
+  },
+  {
+    "Name": "Isdislav Irenovic",
+    "homePlanet": {
+      "name": "Voyager-11"
+    }
+  },
+  {
+    "Name": "Aina",
+    "homePlanet": {
+      "name": "Alpha-N45"
+    }
+  },
+  {
+    "Name": "Nero",
+    "homePlanet": {
+      "name": "Kepler-6"
+    }
+  }
+]

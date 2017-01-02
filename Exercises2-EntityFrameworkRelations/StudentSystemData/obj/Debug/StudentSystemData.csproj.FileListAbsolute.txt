@@ -1,0 +1,14 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Debug\StudentSystemData.dll.config
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Debug\StudentSystemData.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Debug\StudentSystemData.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Debug\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Debug\StudentSystemModels.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Debug\StudentSystemModels.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Debug\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\obj\Debug\StudentSystemData.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\obj\Debug\StudentSystemData.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\obj\Debug\StudentSystemData.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\obj\Debug\StudentSystemData.Migrations.InitialCreate.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\obj\Debug\StudentSystemData.csproj.GenerateResource.Cache

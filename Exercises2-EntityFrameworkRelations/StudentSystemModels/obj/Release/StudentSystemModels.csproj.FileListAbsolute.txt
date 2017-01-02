@@ -1,0 +1,5 @@
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemModels\bin\Release\StudentSystemModels.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemModels\bin\Release\StudentSystemModels.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemModels\obj\Release\StudentSystemModels.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemModels\obj\Release\StudentSystemModels.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemModels\obj\Release\StudentSystemModels.csprojResolveAssemblyReference.cache

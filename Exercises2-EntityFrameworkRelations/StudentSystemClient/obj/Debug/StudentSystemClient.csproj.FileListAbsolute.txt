@@ -1,0 +1,14 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\StudentSystemClient.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\StudentSystemClient.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\StudentSystemClient.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\StudentSystemData.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\StudentSystemModels.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\StudentSystemData.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\StudentSystemModels.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\obj\Debug\StudentSystemClient.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\obj\Debug\StudentSystemClient.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemClient\obj\Debug\StudentSystemClient.pdb

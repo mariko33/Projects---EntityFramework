@@ -1,0 +1,10 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HotelDatabase\bin\Release\HotelDatabase.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HotelDatabase\bin\Release\HotelDatabase.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HotelDatabase\bin\Release\HotelDatabase.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HotelDatabase\bin\Release\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HotelDatabase\bin\Release\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HotelDatabase\bin\Release\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HotelDatabase\bin\Release\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HotelDatabase\obj\Release\HotelDatabase.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HotelDatabase\obj\Release\HotelDatabase.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HotelDatabase\obj\Release\HotelDatabase.pdb

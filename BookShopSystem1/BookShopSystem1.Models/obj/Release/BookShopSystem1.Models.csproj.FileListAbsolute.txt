@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Models\bin\Release\BookShopSystem1.Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Models\bin\Release\BookShopSystem1.Models.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Models\obj\Release\BookShopSystem1.Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Models\obj\Release\BookShopSystem1.Models.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Models\obj\Release\BookShopSystem1.Models.csprojResolveAssemblyReference.cache

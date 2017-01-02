@@ -1,0 +1,7 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Dtos\bin\Release\Photography.Dtos.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Dtos\bin\Release\Photography.Dtos.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Dtos\obj\Release\Photography.Dtos.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Dtos\obj\Release\Photography.Dtos.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Dtos\obj\Release\Photography.Dtos.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Dtos\bin\Release\Photography.Models.dll
+C:\Users\Toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Dtos\bin\Release\Photography.Models.pdb

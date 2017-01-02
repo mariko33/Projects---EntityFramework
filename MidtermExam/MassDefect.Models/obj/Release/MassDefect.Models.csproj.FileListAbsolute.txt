@@ -1,0 +1,4 @@
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.Models\bin\Release\MassDefect.Models.dll
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.Models\bin\Release\MassDefect.Models.pdb
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.Models\obj\Release\MassDefect.Models.dll
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.Models\obj\Release\MassDefect.Models.pdb

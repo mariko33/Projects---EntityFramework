@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Models\bin\Release\Photography.Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Models\bin\Release\Photography.Models.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Models\obj\Release\Photography.Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Models\obj\Release\Photography.Models.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\DatabaseAdvancedExamPhotographyWorkshops\Photography.Models\obj\Release\Photography.Models.csprojResolveAssemblyReference.cache

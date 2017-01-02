@@ -1,0 +1,8 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\SimpleMapping\bin\Debug\SimpleMapping.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\SimpleMapping\bin\Debug\SimpleMapping.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\SimpleMapping\bin\Debug\SimpleMapping.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\SimpleMapping\bin\Debug\AutoMapper.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\SimpleMapping\bin\Debug\AutoMapper.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\SimpleMapping\obj\Debug\SimpleMapping.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\SimpleMapping\obj\Debug\SimpleMapping.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\SimpleMapping\obj\Debug\SimpleMapping.pdb

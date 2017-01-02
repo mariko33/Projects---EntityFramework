@@ -1,0 +1,12 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\bin\Release\BookShopSystem1.Data.dll.config
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\bin\Release\BookShopSystem1.Data.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\bin\Release\BookShopSystem1.Data.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\bin\Release\BookShopSystem1.Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\bin\Release\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\bin\Release\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\bin\Release\BookShopSystem1.Models.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\bin\Release\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\bin\Release\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\obj\Release\BookShopSystem1.Data.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\obj\Release\BookShopSystem1.Data.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\BookShopSystem1.Data\obj\Release\BookShopSystem1.Data.pdb

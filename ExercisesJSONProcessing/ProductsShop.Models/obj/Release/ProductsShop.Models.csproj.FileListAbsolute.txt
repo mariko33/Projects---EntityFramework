@@ -1,0 +1,4 @@
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductsShop.Models\bin\Release\ProductsShop.Models.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductsShop.Models\bin\Release\ProductsShop.Models.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductsShop.Models\obj\Release\ProductsShop.Models.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductsShop.Models\obj\Release\ProductsShop.Models.pdb

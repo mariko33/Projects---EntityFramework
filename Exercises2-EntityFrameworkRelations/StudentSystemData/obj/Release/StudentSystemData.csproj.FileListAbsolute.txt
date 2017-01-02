@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Release\StudentSystemData.dll.config
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Release\StudentSystemData.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Release\StudentSystemData.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Release\EntityFramework.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Release\StudentSystemModels.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Release\StudentSystemModels.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Release\EntityFramework.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\obj\Release\StudentSystemData.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\obj\Release\StudentSystemData.Migrations.InitialCreate.resources
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\obj\Release\StudentSystemData.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\obj\Release\StudentSystemData.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\Exercises2-EntityFrameworkRelations\StudentSystemData\obj\Release\StudentSystemData.pdb

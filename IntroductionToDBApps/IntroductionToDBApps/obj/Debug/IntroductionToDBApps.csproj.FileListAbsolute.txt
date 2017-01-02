@@ -1,0 +1,10 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\IntroductionToDBApps.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\IntroductionToDBApps.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\IntroductionToDBApps.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\IntroductionToDBApps\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\IntroductionToDBApps\obj\Debug\IntroductionToDBApps.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\IntroductionToDBApps\obj\Debug\IntroductionToDBApps.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\IntroductionToDBApps\IntroductionToDBApps\obj\Debug\IntroductionToDBApps.pdb

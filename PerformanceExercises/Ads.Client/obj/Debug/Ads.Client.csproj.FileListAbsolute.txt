@@ -1,0 +1,12 @@
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\bin\Debug\Ads.Client.exe.config
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\bin\Debug\Ads.Client.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\bin\Debug\Ads.Client.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\bin\Debug\Ads.Data.dll
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\bin\Debug\Ads.Data.pdb
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\obj\Debug\Ads.Client.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\obj\Debug\Ads.Client.exe
+C:\Users\Toshiba\documents\visual studio 2015\Projects\PerformanceExercises\Ads.Client\obj\Debug\Ads.Client.pdb

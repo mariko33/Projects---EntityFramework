@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\FootballBookmakerSystem\Models\bin\Debug\Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\FootballBookmakerSystem\Models\bin\Debug\Models.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\FootballBookmakerSystem\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\FootballBookmakerSystem\Models\obj\Debug\Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\FootballBookmakerSystem\Models\obj\Debug\Models.pdb

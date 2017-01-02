@@ -1,0 +1,11 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\bin\Release\Dtos.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\bin\Release\Dtos.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\bin\Release\MassDefect.Data.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\bin\Release\MassDefect.Models.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\bin\Release\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\bin\Release\MassDefect.Data.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\bin\Release\MassDefect.Models.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\bin\Release\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\obj\Release\Dtos.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\obj\Release\Dtos.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\Dtos\obj\Release\Dtos.pdb

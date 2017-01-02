@@ -1,0 +1,10 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\SalesDatabase\bin\Release\SalesDatabase.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\SalesDatabase\bin\Release\SalesDatabase.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\SalesDatabase\bin\Release\SalesDatabase.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\SalesDatabase\bin\Release\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\SalesDatabase\bin\Release\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\SalesDatabase\bin\Release\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\SalesDatabase\bin\Release\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\SalesDatabase\obj\Release\SalesDatabase.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\SalesDatabase\obj\Release\SalesDatabase.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\SalesDatabase\obj\Release\SalesDatabase.pdb

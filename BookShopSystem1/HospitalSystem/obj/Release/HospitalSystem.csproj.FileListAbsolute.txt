@@ -1,0 +1,12 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\bin\Release\HospitalSystem.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\bin\Release\HospitalSystem.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\bin\Release\HospitalSystem.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\bin\Release\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\bin\Release\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\bin\Release\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\bin\Release\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\obj\Release\HospitalSystem.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\obj\Release\HospitalSystem.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\obj\Release\HospitalSystem.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\obj\Release\HospitalSystem.Migrations.InitialCreate.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\BookShopSystem1\HospitalSystem\obj\Release\HospitalSystem.csproj.GenerateResource.Cache

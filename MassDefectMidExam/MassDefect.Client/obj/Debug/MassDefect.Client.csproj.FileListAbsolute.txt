@@ -1,0 +1,1 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\MassDefectMidExam\MassDefect.Client\bin\Debug\MassDefect.Client.exe.config

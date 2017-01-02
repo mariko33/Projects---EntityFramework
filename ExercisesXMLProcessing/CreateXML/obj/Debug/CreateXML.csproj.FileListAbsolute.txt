@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesXMLProcessing\CreateXML\bin\Debug\CreateXML.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesXMLProcessing\CreateXML\bin\Debug\CreateXML.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesXMLProcessing\CreateXML\bin\Debug\CreateXML.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesXMLProcessing\CreateXML\obj\Debug\CreateXML.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesXMLProcessing\CreateXML\obj\Debug\CreateXML.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesXMLProcessing\CreateXML\obj\Debug\CreateXML.pdb

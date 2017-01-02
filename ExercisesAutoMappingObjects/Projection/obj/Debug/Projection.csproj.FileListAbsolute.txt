@@ -1,0 +1,12 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Debug\Projection.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\obj\Debug\Projection.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Debug\Projection.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Debug\Projection.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Debug\AutoMapper.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Debug\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Debug\AutoMapper.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Debug\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\obj\Debug\Projection.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\obj\Debug\Projection.pdb

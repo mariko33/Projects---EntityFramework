@@ -1,0 +1,12 @@
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\bin\Release\ProductShop.Data.dll.config
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\bin\Release\ProductShop.Data.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\bin\Release\ProductShop.Data.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\bin\Release\EntityFramework.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\bin\Release\ProductsShop.Models.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\bin\Release\ProductsShop.Models.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\bin\Release\EntityFramework.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\obj\Release\ProductShop.Data.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\obj\Release\ProductShop.Data.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShop.Data\obj\Release\ProductShop.Data.pdb

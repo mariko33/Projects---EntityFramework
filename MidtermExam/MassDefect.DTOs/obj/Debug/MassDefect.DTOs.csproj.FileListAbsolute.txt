@@ -1,0 +1,5 @@
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.DTOs\bin\Debug\MassDefect.DTOs.dll
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.DTOs\bin\Debug\MassDefect.DTOs.pdb
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.DTOs\obj\Debug\MassDefect.DTOs.csprojResolveAssemblyReference.cache
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.DTOs\obj\Debug\MassDefect.DTOs.dll
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.DTOs\obj\Debug\MassDefect.DTOs.pdb

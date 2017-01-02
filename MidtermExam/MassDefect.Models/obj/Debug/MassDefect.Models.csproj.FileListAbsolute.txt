@@ -1,0 +1,5 @@
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.Models\bin\Debug\MassDefect.Models.dll
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.Models\bin\Debug\MassDefect.Models.pdb
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.Models\obj\Debug\MassDefect.Models.csprojResolveAssemblyReference.cache
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.Models\obj\Debug\MassDefect.Models.dll
+c:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.Models\obj\Debug\MassDefect.Models.pdb

@@ -1,0 +1,8 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\AdvancedMapping\bin\Debug\AdvancedMapping.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\AdvancedMapping\bin\Debug\AdvancedMapping.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\AdvancedMapping\bin\Debug\AdvancedMapping.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\AdvancedMapping\bin\Debug\AutoMapper.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\AdvancedMapping\bin\Debug\AutoMapper.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\AdvancedMapping\obj\Debug\AdvancedMapping.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\AdvancedMapping\obj\Debug\AdvancedMapping.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\AdvancedMapping\obj\Debug\AdvancedMapping.pdb

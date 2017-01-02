@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product name="Allopurinol" price="518.50" seller="Jacqueline Perez" />
+  <product name="Parsley" price="519.06" seller="Kathy Gilbert" />
+  <product name="Extra Strength Pain Reliever PM" price="542.72" seller="Betty Ward" />
+  <product name="Propranolol Hydrochloride" price="546.95" seller="Wanda Harris" />
+  <product name="Prednisone" price="550.72" seller="Brenda Howell" />
+  <product name="TERSI" price="554.91" seller="Christina Patterson" />
+  <product name="DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER" price="555.12" seller="Brandon Fuller" />
+  <product name="Echinacea Quartz Gum Support" price="570.08" seller="Clarence Fowler" />
+  <product name="Topiramate" price="578.77" seller="Betty Ward" />
+  <product name="AIR" price="581.69" seller="Emily Parker" />
+  <product name="Agaricus Equisetum Special Order" price="585.93" seller="Billy Parker" />
+  <product name="Ketorolac Tromethamine" price="608.18" seller="Patricia Cooper" />
+  <product name="Pleo Ginkgo" price="613.65" seller="Paula Hill" />
+  <product name="Diastat" price="614.14" seller="Brenda Howell" />
+  <product name="No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory" price="616.19" seller="Clarence Fowler" />
+  <product name="Foaming Hand Sanitizer" price="624.72" seller="Paula Hill" />
+  <product name="ziprasidone hydrochloride" price="628.66" seller="Arthur Reynolds" />
+  <product name="AVANDAMET" price="632.08" seller="Anna Clark" />
+  <product name="Childrens Allegra Allergy" price="650.97" seller="Nicole Martinez" />
+  <product name="Strattera" price="658.54" seller="Kathy Gilbert" />
+  <product name="Amitiza" price="666.58" seller="Patricia Fuller" />
+  <product name="ENBREL" price="673.97" seller="Anna Parker" />
+  <product name="Acnezzol Base" price="710.60" seller="Jeremy Woods" />
+  <product name="Pleo Lat" price="720.08" seller="Rachel Johnson" />
+  <product name="Pollens - Weeds and Garden Plants, Nettle Urtica dioica" price="782.77" seller="Eugene Stewart" />
+  <product name="Clarins Paris Skin Illusion - 114 cappuccino" price="811.42" seller="Bonnie Fox" />
+  <product name="Perrigo Benzoyl Peroxide" price="873.24" seller="Emily Parker" />
+  <product name="Myristica Argentum Sinus Relief" price="904.52" seller="Christina Patterson" />
+  <product name="Aspirin" price="925.45" seller="Clarence Fowler" />
+  <product name="Ranitidine" price="926.64" seller="Christina Patterson" />
+  <product name="Dawn Ultra Antibacterial Hand" price="969.86" seller="Betty Ward" />
+  <product name="Smooth texture Orange flavor" price="976.65" seller="Bonnie Fox" />
+  <product name="Retin-A MICRO" price="995.98" seller="Paula Hill" />
+</products>

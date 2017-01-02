@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\MassDefect.XMLImport.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\MassDefect.XMLImport.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\MassDefect.XMLImport.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\EntityFramework.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\MassDefect.Data.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\MassDefect.DTOs.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\MassDefect.Models.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\MassDefect.Data.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\MassDefect.DTOs.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\MassDefect.Models.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\EntityFramework.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\obj\Release\MassDefect.XMLImport.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\obj\Release\MassDefect.XMLImport.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\MidtermExam\MassDefect.XMLImport\obj\Release\MassDefect.XMLImport.pdb

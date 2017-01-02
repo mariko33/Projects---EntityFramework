@@ -1,0 +1,11 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Release\Projection.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Release\Projection.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Release\Projection.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Release\AutoMapper.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Release\EntityFramework.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Release\EntityFramework.SqlServer.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Release\AutoMapper.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Release\EntityFramework.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\bin\Release\EntityFramework.SqlServer.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\obj\Release\Projection.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\ExercisesAutoMappingObjects\Projection\obj\Release\Projection.pdb

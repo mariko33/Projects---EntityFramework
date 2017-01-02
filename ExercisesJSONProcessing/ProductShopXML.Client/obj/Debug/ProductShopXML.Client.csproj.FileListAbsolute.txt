@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\ProductShopXML.Client.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\ProductShopXML.Client.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\ProductShopXML.Client.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\EntityFramework.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\ProductShop.Data.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\ProductsShop.Models.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\ProductShop.Data.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\ProductsShop.Models.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\EntityFramework.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\obj\Debug\ProductShopXML.Client.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\obj\Debug\ProductShopXML.Client.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\ExercisesJSONProcessing\ProductShopXML.Client\obj\Debug\ProductShopXML.Client.pdb
